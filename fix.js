@@ -47,7 +47,7 @@ for (var group in groupIDs) {
                 groupIDsArray.push({
                     groupID: Number(group),
                     name: groupIDs[group]["name"]["en"],
-                    categoryID: groupIDs["categoryID"]
+                    categoryID: groupIDs[group]["categoryID"]
                 })
             }
         }
