@@ -1,5 +1,5 @@
 # EveTypeIDFix
-Simple tool to strip exess info from eve's static data.
+Simple tool to strip excess info from eve's static data.
 
 Creates new json file with go struct.
 
